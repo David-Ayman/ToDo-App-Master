@@ -1,5 +1,3 @@
-# marko-tasks
-
 
 Todo App tasks
 
